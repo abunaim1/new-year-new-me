@@ -2,11 +2,7 @@
   margin: 0px;
   font-family: "Work Sans", sans-serif;
 }
-section{
-    margin-bottom: 130px;
-}
-
-/* header section */
+/* header section styles*/
 
 header {
   margin: 0px;
@@ -43,4 +39,41 @@ header {
   background: #f15b22;
   border-radius: 5px;
 }
+
+/* previous failure section styles*/
+
+.previous-failure {
+  display: flex;
+  gap: 110px;
+  margin-left: 250px;
+  margin-right: 300px;
+}
+.previous-failure-picture {
+  margin-top: 130px;
+}
+.previous-failure-content {
+  margin-top: 370px;
+}
+.previous-failure-title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #151414;
+  margin-bottom: 25px;
+}
+.previous-failure-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #444343;
+  margin-bottom: 15px;
+}
+.previous-failure-sign {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 26px;
+  color: #444343;
+}
+/* My plan section styles */
 
